@@ -4,3 +4,4 @@ pandas
 Flask-Cors
 seaborn
 xgboost
+ipykernel
