@@ -1,0 +1,276 @@
+[ 2023-07-30 16:31:46,852 ] 18 root - INFO - Reading the Train data
+[ 2023-07-30 16:31:47,194 ] 23 root - INFO - Reading the Train data successful
+[ 2023-07-30 16:31:47,195 ] 32 root - INFO - Reading the test data
+[ 2023-07-30 16:31:47,263 ] 37 root - INFO - Reading the test data successful
+[ 2023-07-30 16:31:47,263 ] 22 root - INFO - Started data transformation for Train Data
+[ 2023-07-30 16:31:47,263 ] 24 root - INFO - Started reading the train data
+[ 2023-07-30 16:31:47,316 ] 27 root - INFO - Reading the train data completed
+[ 2023-07-30 16:31:47,361 ] 35 root - INFO -  Started Filling the null Values of Item weight
+[ 2023-07-30 16:31:47,411 ] 44 root - INFO - Completed filling the null values
+[ 2023-07-30 16:31:47,411 ] 46 root - INFO - Started filling null values of Outlet size
+[ 2023-07-30 16:31:47,413 ] 49 root - INFO - Filling null values of Outlet size is completed
+[ 2023-07-30 16:31:47,413 ] 54 root - INFO - Started replacing the values of Item fat content
+[ 2023-07-30 16:31:47,415 ] 60 root - INFO - Replacing the values of Item fat content completed
+[ 2023-07-30 16:31:47,415 ] 66 root - INFO - Applying label encoding to Item type
+[ 2023-07-30 16:31:47,418 ] 72 root - INFO - Applying label encoding to Item type completed
+[ 2023-07-30 16:31:47,419 ] 83 root - INFO - Started Label encoding to Item fat content
+[ 2023-07-30 16:31:47,424 ] 86 root - INFO - Label encoding to Item fat content completed
+[ 2023-07-30 16:31:47,424 ] 91 root - INFO - Started Label encoding to outlet size
+[ 2023-07-30 16:31:47,430 ] 94 root - INFO - Label encoding to outlet size completed
+[ 2023-07-30 16:31:47,430 ] 99 root - INFO - Started Label encoding to outlet location type
+[ 2023-07-30 16:31:47,434 ] 102 root - INFO -  Label encoding to outlet location type completed
+[ 2023-07-30 16:31:47,434 ] 107 root - INFO - Started Label encoding to outlet type
+[ 2023-07-30 16:31:47,437 ] 110 root - INFO - Label encoding to outlet type completed
+[ 2023-07-30 16:31:47,438 ] 115 root - INFO - Completed data transformation for Train Data
+[ 2023-07-30 16:31:47,438 ] 120 root - INFO - Started data transformation for Test Data
+[ 2023-07-30 16:31:47,438 ] 121 root - INFO - Started reading the test data
+[ 2023-07-30 16:31:47,456 ] 124 root - INFO - Reading the test data completed
+[ 2023-07-30 16:31:47,456 ] 132 root - INFO -  Started Filling the null Values of Item weight
+[ 2023-07-30 16:31:47,472 ] 141 root - INFO - Completed filling the null values
+[ 2023-07-30 16:31:47,472 ] 143 root - INFO - Started filling null values of Outlet size
+[ 2023-07-30 16:31:47,473 ] 146 root - INFO - Filling null values of Outlet size is completed
+[ 2023-07-30 16:31:47,473 ] 151 root - INFO - Started replacing the values of Item fat content
+[ 2023-07-30 16:31:47,475 ] 157 root - INFO - Replacing the values of Item fat content completed
+[ 2023-07-30 16:31:47,475 ] 163 root - INFO - Applying label encoding to Item type
+[ 2023-07-30 16:31:47,478 ] 169 root - INFO - Applying label encoding to Item type completed
+[ 2023-07-30 16:31:47,478 ] 180 root - INFO - Started Label encoding to Item fat content
+[ 2023-07-30 16:31:47,482 ] 183 root - INFO - Label encoding to Item fat content completed
+[ 2023-07-30 16:31:47,482 ] 188 root - INFO - Started Label encoding to outlet size
+[ 2023-07-30 16:31:47,485 ] 191 root - INFO - Label encoding to outlet size completed
+[ 2023-07-30 16:31:47,485 ] 196 root - INFO - Started Label encoding to outlet location type
+[ 2023-07-30 16:31:47,488 ] 199 root - INFO -  Label encoding to outlet location type completed
+[ 2023-07-30 16:31:47,488 ] 204 root - INFO - Started Label encoding to outlet type
+[ 2023-07-30 16:31:47,491 ] 207 root - INFO - Label encoding to outlet type completed
+[ 2023-07-30 16:31:47,491 ] 212 root - INFO - Completed data transformation for Test Data
+[ 2023-07-30 16:31:47,562 ] 18 root - INFO - Reading the Train data
+[ 2023-07-30 16:31:47,633 ] 23 root - INFO - Reading the Train data successful
+[ 2023-07-30 16:31:47,633 ] 32 root - INFO - Reading the test data
+[ 2023-07-30 16:31:47,677 ] 37 root - INFO - Reading the test data successful
+[ 2023-07-30 16:31:47,678 ] 22 root - INFO - Started data transformation for Train Data
+[ 2023-07-30 16:31:47,678 ] 24 root - INFO - Started reading the train data
+[ 2023-07-30 16:31:47,701 ] 27 root - INFO - Reading the train data completed
+[ 2023-07-30 16:31:47,702 ] 35 root - INFO -  Started Filling the null Values of Item weight
+[ 2023-07-30 16:31:47,720 ] 44 root - INFO - Completed filling the null values
+[ 2023-07-30 16:31:47,720 ] 46 root - INFO - Started filling null values of Outlet size
+[ 2023-07-30 16:31:47,722 ] 49 root - INFO - Filling null values of Outlet size is completed
+[ 2023-07-30 16:31:47,722 ] 54 root - INFO - Started replacing the values of Item fat content
+[ 2023-07-30 16:31:47,723 ] 60 root - INFO - Replacing the values of Item fat content completed
+[ 2023-07-30 16:31:47,723 ] 66 root - INFO - Applying label encoding to Item type
+[ 2023-07-30 16:31:47,728 ] 72 root - INFO - Applying label encoding to Item type completed
+[ 2023-07-30 16:31:47,728 ] 83 root - INFO - Started Label encoding to Item fat content
+[ 2023-07-30 16:31:47,733 ] 86 root - INFO - Label encoding to Item fat content completed
+[ 2023-07-30 16:31:47,733 ] 91 root - INFO - Started Label encoding to outlet size
+[ 2023-07-30 16:31:47,738 ] 94 root - INFO - Label encoding to outlet size completed
+[ 2023-07-30 16:31:47,738 ] 99 root - INFO - Started Label encoding to outlet location type
+[ 2023-07-30 16:31:47,743 ] 102 root - INFO -  Label encoding to outlet location type completed
+[ 2023-07-30 16:31:47,744 ] 107 root - INFO - Started Label encoding to outlet type
+[ 2023-07-30 16:31:47,747 ] 110 root - INFO - Label encoding to outlet type completed
+[ 2023-07-30 16:31:47,747 ] 115 root - INFO - Completed data transformation for Train Data
+[ 2023-07-30 16:31:47,747 ] 120 root - INFO - Started data transformation for Test Data
+[ 2023-07-30 16:31:47,747 ] 121 root - INFO - Started reading the test data
+[ 2023-07-30 16:31:47,765 ] 124 root - INFO - Reading the test data completed
+[ 2023-07-30 16:31:47,765 ] 132 root - INFO -  Started Filling the null Values of Item weight
+[ 2023-07-30 16:31:47,780 ] 141 root - INFO - Completed filling the null values
+[ 2023-07-30 16:31:47,781 ] 143 root - INFO - Started filling null values of Outlet size
+[ 2023-07-30 16:31:47,782 ] 146 root - INFO - Filling null values of Outlet size is completed
+[ 2023-07-30 16:31:47,782 ] 151 root - INFO - Started replacing the values of Item fat content
+[ 2023-07-30 16:31:47,783 ] 157 root - INFO - Replacing the values of Item fat content completed
+[ 2023-07-30 16:31:47,783 ] 163 root - INFO - Applying label encoding to Item type
+[ 2023-07-30 16:31:47,786 ] 169 root - INFO - Applying label encoding to Item type completed
+[ 2023-07-30 16:31:47,786 ] 180 root - INFO - Started Label encoding to Item fat content
+[ 2023-07-30 16:31:47,789 ] 183 root - INFO - Label encoding to Item fat content completed
+[ 2023-07-30 16:31:47,789 ] 188 root - INFO - Started Label encoding to outlet size
+[ 2023-07-30 16:31:47,793 ] 191 root - INFO - Label encoding to outlet size completed
+[ 2023-07-30 16:31:47,793 ] 196 root - INFO - Started Label encoding to outlet location type
+[ 2023-07-30 16:31:47,796 ] 199 root - INFO -  Label encoding to outlet location type completed
+[ 2023-07-30 16:31:47,796 ] 204 root - INFO - Started Label encoding to outlet type
+[ 2023-07-30 16:31:47,798 ] 207 root - INFO - Label encoding to outlet type completed
+[ 2023-07-30 16:31:47,798 ] 212 root - INFO - Completed data transformation for Test Data
+[ 2023-07-30 16:32:20,216 ] 1 root - INFO - Filling the null Values of Item weight
+[ 2023-07-30 16:32:21,299 ] 2 root - INFO - Filling null values of Outlet size
+[ 2023-07-30 16:32:21,302 ] 5 root - INFO - Filling null values of Outlet size Successful
+[ 2023-07-30 16:32:23,381 ] 2 root - INFO - Replacing the values of Item fat content
+[ 2023-07-30 16:32:23,384 ] 7 root - INFO - Replacing the values of Item fat content Successful
+[ 2023-07-30 16:32:47,249 ] 2 root - INFO - Plotting pairplot of train_data
+[ 2023-07-30 16:34:00,230 ] 4 root - INFO - Plotting pairplot of train_data Successful
+[ 2023-07-30 16:35:02,378 ] 2 root - INFO - Plotting countplot of Item fat content
+[ 2023-07-30 16:35:02,404 ] 4 root - INFO - Plotting countplot of Item fat content successful
+[ 2023-07-30 16:35:02,581 ] 2 root - INFO - Plotting distplot of Item outlet sales
+[ 2023-07-30 16:35:02,833 ] 4 root - INFO - Plotting distplot of Item outlet sales successful
+[ 2023-07-30 16:35:03,024 ] 2 root - INFO - Plotting scatterplot
+[ 2023-07-30 16:35:03,095 ] 4 root - INFO - Plotting scatterplot successful
+[ 2023-07-30 16:35:03,419 ] 2 root - INFO - Plotting countplot of outlet identifier
+[ 2023-07-30 16:35:03,576 ] 6 root - INFO - Plotting countplot of outlet identifier successful
+[ 2023-07-30 16:38:58,485 ] 18 root - INFO - Reading the Train data
+[ 2023-07-30 16:38:58,565 ] 23 root - INFO - Reading the Train data successful
+[ 2023-07-30 16:38:58,565 ] 32 root - INFO - Reading the test data
+[ 2023-07-30 16:38:58,615 ] 37 root - INFO - Reading the test data successful
+[ 2023-07-30 16:38:58,617 ] 22 root - INFO - Started data transformation for Train Data
+[ 2023-07-30 16:38:58,617 ] 24 root - INFO - Started reading the train data
+[ 2023-07-30 16:38:58,643 ] 27 root - INFO - Reading the train data completed
+[ 2023-07-30 16:38:58,644 ] 35 root - INFO -  Started Filling the null Values of Item weight
+[ 2023-07-30 16:38:58,664 ] 44 root - INFO - Completed filling the null values
+[ 2023-07-30 16:38:58,664 ] 46 root - INFO - Started filling null values of Outlet size
+[ 2023-07-30 16:38:58,666 ] 49 root - INFO - Filling null values of Outlet size is completed
+[ 2023-07-30 16:38:58,667 ] 54 root - INFO - Started replacing the values of Item fat content
+[ 2023-07-30 16:38:58,668 ] 60 root - INFO - Replacing the values of Item fat content completed
+[ 2023-07-30 16:38:58,668 ] 66 root - INFO - Applying label encoding to Item type
+[ 2023-07-30 16:38:58,672 ] 72 root - INFO - Applying label encoding to Item type completed
+[ 2023-07-30 16:38:58,672 ] 83 root - INFO - Started Label encoding to Item fat content
+[ 2023-07-30 16:38:58,677 ] 86 root - INFO - Label encoding to Item fat content completed
+[ 2023-07-30 16:38:58,677 ] 91 root - INFO - Started Label encoding to outlet size
+[ 2023-07-30 16:38:58,682 ] 94 root - INFO - Label encoding to outlet size completed
+[ 2023-07-30 16:38:58,683 ] 99 root - INFO - Started Label encoding to outlet location type
+[ 2023-07-30 16:38:58,687 ] 102 root - INFO -  Label encoding to outlet location type completed
+[ 2023-07-30 16:38:58,687 ] 107 root - INFO - Started Label encoding to outlet type
+[ 2023-07-30 16:38:58,691 ] 110 root - INFO - Label encoding to outlet type completed
+[ 2023-07-30 16:38:58,691 ] 115 root - INFO - Completed data transformation for Train Data
+[ 2023-07-30 16:38:58,691 ] 120 root - INFO - Started data transformation for Test Data
+[ 2023-07-30 16:38:58,691 ] 121 root - INFO - Started reading the test data
+[ 2023-07-30 16:38:58,710 ] 124 root - INFO - Reading the test data completed
+[ 2023-07-30 16:38:58,711 ] 132 root - INFO -  Started Filling the null Values of Item weight
+[ 2023-07-30 16:38:58,726 ] 141 root - INFO - Completed filling the null values
+[ 2023-07-30 16:38:58,726 ] 143 root - INFO - Started filling null values of Outlet size
+[ 2023-07-30 16:38:58,727 ] 146 root - INFO - Filling null values of Outlet size is completed
+[ 2023-07-30 16:38:58,727 ] 151 root - INFO - Started replacing the values of Item fat content
+[ 2023-07-30 16:38:58,730 ] 157 root - INFO - Replacing the values of Item fat content completed
+[ 2023-07-30 16:38:58,730 ] 163 root - INFO - Applying label encoding to Item type
+[ 2023-07-30 16:38:58,732 ] 169 root - INFO - Applying label encoding to Item type completed
+[ 2023-07-30 16:38:58,732 ] 180 root - INFO - Started Label encoding to Item fat content
+[ 2023-07-30 16:38:58,736 ] 183 root - INFO - Label encoding to Item fat content completed
+[ 2023-07-30 16:38:58,736 ] 188 root - INFO - Started Label encoding to outlet size
+[ 2023-07-30 16:38:58,740 ] 191 root - INFO - Label encoding to outlet size completed
+[ 2023-07-30 16:38:58,740 ] 196 root - INFO - Started Label encoding to outlet location type
+[ 2023-07-30 16:38:58,743 ] 199 root - INFO -  Label encoding to outlet location type completed
+[ 2023-07-30 16:38:58,743 ] 204 root - INFO - Started Label encoding to outlet type
+[ 2023-07-30 16:38:58,746 ] 207 root - INFO - Label encoding to outlet type completed
+[ 2023-07-30 16:38:58,746 ] 212 root - INFO - Completed data transformation for Test Data
+[ 2023-07-30 16:39:00,415 ] 1 root - INFO - Filling the null Values of Item weight
+[ 2023-07-30 16:39:00,500 ] 2 root - INFO - Filling null values of Outlet size
+[ 2023-07-30 16:39:00,502 ] 5 root - INFO - Filling null values of Outlet size Successful
+[ 2023-07-30 16:39:00,606 ] 2 root - INFO - Replacing the values of Item fat content
+[ 2023-07-30 16:39:00,608 ] 7 root - INFO - Replacing the values of Item fat content Successful
+[ 2023-07-30 16:39:00,928 ] 2 root - INFO - Plotting pairplot of train_data
+[ 2023-07-30 16:39:15,584 ] 4 root - INFO - Plotting pairplot of train_data Successful
+[ 2023-07-30 16:39:28,110 ] 2 root - INFO - Plotting countplot of Item fat content
+[ 2023-07-30 16:39:28,198 ] 4 root - INFO - Plotting countplot of Item fat content successful
+[ 2023-07-30 16:39:28,511 ] 2 root - INFO - Plotting distplot of Item outlet sales
+[ 2023-07-30 16:39:28,898 ] 4 root - INFO - Plotting distplot of Item outlet sales successful
+[ 2023-07-30 16:39:29,311 ] 2 root - INFO - Plotting scatterplot
+[ 2023-07-30 16:39:29,374 ] 4 root - INFO - Plotting scatterplot successful
+[ 2023-07-30 16:39:29,598 ] 2 root - INFO - Plotting countplot of outlet identifier
+[ 2023-07-30 16:39:29,777 ] 6 root - INFO - Plotting countplot of outlet identifier successful
+[ 2023-07-30 16:39:29,784 ] 2 root - INFO - Plotting scatterplot of item MRP with respect to Item outlet sales
+[ 2023-07-30 16:39:29,835 ] 4 root - INFO - Plotting scatterplot of item MRP with respect to Item outlet sales Successful
+[ 2023-07-30 16:39:30,051 ] 2 root - INFO - Plotting boxplot
+[ 2023-07-30 16:39:30,310 ] 6 root - INFO - Plotting boxplot successful
+[ 2023-07-30 16:39:30,409 ] 2 root - INFO - Plotting countplot of Item type
+[ 2023-07-30 16:39:30,650 ] 6 root - INFO - Plotting countplot of Item type successful
+[ 2023-07-30 16:39:30,663 ] 2 root - INFO - Plotting barplot
+[ 2023-07-30 16:39:31,110 ] 6 root - INFO - Plotting barplot successful
+[ 2023-07-30 16:39:31,118 ] 2 root - INFO - Plotting train_data correlation
+[ 2023-07-30 16:39:31,119 ] 6 root - ERROR - could not convert string to float: 'Dairy'
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_14664\3556743162.py", line 3, in <module>
+    sns.heatmap(df.corr(),annot=True, cmap = "RdYlGn")
+                ^^^^^^^^^
+  File "f:\DOCUMENTS\Project\Stores-Sales-Prediction\venv\Lib\site-packages\pandas\core\frame.py", line 10054, in corr
+    mat = data.to_numpy(dtype=float, na_value=np.nan, copy=False)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "f:\DOCUMENTS\Project\Stores-Sales-Prediction\venv\Lib\site-packages\pandas\core\frame.py", line 1838, in to_numpy
+    result = self._mgr.as_array(dtype=dtype, copy=copy, na_value=na_value)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "f:\DOCUMENTS\Project\Stores-Sales-Prediction\venv\Lib\site-packages\pandas\core\internals\managers.py", line 1732, in as_array
+    arr = self._interleave(dtype=dtype, na_value=na_value)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "f:\DOCUMENTS\Project\Stores-Sales-Prediction\venv\Lib\site-packages\pandas\core\internals\managers.py", line 1794, in _interleave
+    result[rl.indexer] = arr
+    ~~~~~~^^^^^^^^^^^^
+ValueError: could not convert string to float: 'Dairy'
+[ 2023-07-30 16:41:35,634 ] 2 root - INFO - Plotting countplot of outlet establishment year
+[ 2023-07-30 16:41:35,679 ] 4 root - INFO - Plotting countplot of outlet establishment year Successful
+[ 2023-07-30 16:41:36,673 ] 2 root - INFO - Plotting countplot of outlet location type
+[ 2023-07-30 16:41:36,698 ] 4 root - INFO - Plotting countplot of outlet location type Successful
+[ 2023-07-30 16:41:37,799 ] 2 root - INFO - Plotting countplot of outlet size
+[ 2023-07-30 16:41:37,825 ] 4 root - INFO - Plotting countplot of outlet size Successful
+[ 2023-07-30 16:44:44,932 ] 2 root - INFO - Plotting train_data correlation
+[ 2023-07-30 16:44:45,166 ] 4 root - INFO - Plotting train_data correlation successful
+[ 2023-07-30 16:51:26,486 ] 2 root - INFO - Plotting train_data correlation
+[ 2023-07-30 16:51:27,023 ] 6 root - INFO - Plotting train_data correlation successful
+[ 2023-07-30 16:53:02,433 ] 2 root - INFO - Plotting train_data correlation
+[ 2023-07-30 16:53:03,071 ] 6 root - INFO - Plotting train_data correlation successful
+[ 2023-07-30 17:03:41,433 ] 18 root - INFO - Reading the Train data
+[ 2023-07-30 17:03:41,520 ] 23 root - INFO - Reading the Train data successful
+[ 2023-07-30 17:03:41,520 ] 32 root - INFO - Reading the test data
+[ 2023-07-30 17:03:41,601 ] 37 root - INFO - Reading the test data successful
+[ 2023-07-30 17:03:41,601 ] 22 root - INFO - Started data transformation for Train Data
+[ 2023-07-30 17:03:41,601 ] 24 root - INFO - Started reading the train data
+[ 2023-07-30 17:03:41,647 ] 27 root - INFO - Reading the train data completed
+[ 2023-07-30 17:03:41,649 ] 35 root - INFO -  Started Filling the null Values of Item weight
+[ 2023-07-30 17:03:41,669 ] 44 root - INFO - Completed filling the null values
+[ 2023-07-30 17:03:41,670 ] 46 root - INFO - Started filling null values of Outlet size
+[ 2023-07-30 17:03:41,671 ] 49 root - INFO - Filling null values of Outlet size is completed
+[ 2023-07-30 17:03:41,672 ] 54 root - INFO - Started replacing the values of Item fat content
+[ 2023-07-30 17:03:41,673 ] 60 root - INFO - Replacing the values of Item fat content completed
+[ 2023-07-30 17:03:41,673 ] 66 root - INFO - Applying label encoding to Item type
+[ 2023-07-30 17:03:41,678 ] 72 root - INFO - Applying label encoding to Item type completed
+[ 2023-07-30 17:03:41,678 ] 83 root - INFO - Started Label encoding to Item fat content
+[ 2023-07-30 17:03:41,682 ] 86 root - INFO - Label encoding to Item fat content completed
+[ 2023-07-30 17:03:41,683 ] 91 root - INFO - Started Label encoding to outlet size
+[ 2023-07-30 17:03:41,687 ] 94 root - INFO - Label encoding to outlet size completed
+[ 2023-07-30 17:03:41,687 ] 99 root - INFO - Started Label encoding to outlet location type
+[ 2023-07-30 17:03:41,691 ] 102 root - INFO -  Label encoding to outlet location type completed
+[ 2023-07-30 17:03:41,691 ] 107 root - INFO - Started Label encoding to outlet type
+[ 2023-07-30 17:03:41,695 ] 110 root - INFO - Label encoding to outlet type completed
+[ 2023-07-30 17:03:41,695 ] 115 root - INFO - Completed data transformation for Train Data
+[ 2023-07-30 17:03:41,695 ] 120 root - INFO - Started data transformation for Test Data
+[ 2023-07-30 17:03:41,695 ] 121 root - INFO - Started reading the test data
+[ 2023-07-30 17:03:41,714 ] 124 root - INFO - Reading the test data completed
+[ 2023-07-30 17:03:41,715 ] 132 root - INFO -  Started Filling the null Values of Item weight
+[ 2023-07-30 17:03:41,730 ] 141 root - INFO - Completed filling the null values
+[ 2023-07-30 17:03:41,730 ] 143 root - INFO - Started filling null values of Outlet size
+[ 2023-07-30 17:03:41,731 ] 146 root - INFO - Filling null values of Outlet size is completed
+[ 2023-07-30 17:03:41,731 ] 151 root - INFO - Started replacing the values of Item fat content
+[ 2023-07-30 17:03:41,733 ] 157 root - INFO - Replacing the values of Item fat content completed
+[ 2023-07-30 17:03:41,733 ] 163 root - INFO - Applying label encoding to Item type
+[ 2023-07-30 17:03:41,735 ] 169 root - INFO - Applying label encoding to Item type completed
+[ 2023-07-30 17:03:41,735 ] 180 root - INFO - Started Label encoding to Item fat content
+[ 2023-07-30 17:03:41,739 ] 183 root - INFO - Label encoding to Item fat content completed
+[ 2023-07-30 17:03:41,739 ] 188 root - INFO - Started Label encoding to outlet size
+[ 2023-07-30 17:03:41,743 ] 191 root - INFO - Label encoding to outlet size completed
+[ 2023-07-30 17:03:41,743 ] 196 root - INFO - Started Label encoding to outlet location type
+[ 2023-07-30 17:03:41,747 ] 199 root - INFO -  Label encoding to outlet location type completed
+[ 2023-07-30 17:03:41,747 ] 204 root - INFO - Started Label encoding to outlet type
+[ 2023-07-30 17:03:41,750 ] 207 root - INFO - Label encoding to outlet type completed
+[ 2023-07-30 17:03:41,750 ] 212 root - INFO - Completed data transformation for Test Data
+[ 2023-07-30 17:03:42,943 ] 1 root - INFO - Filling the null Values of Item weight
+[ 2023-07-30 17:03:43,031 ] 2 root - INFO - Filling null values of Outlet size
+[ 2023-07-30 17:03:43,033 ] 5 root - INFO - Filling null values of Outlet size Successful
+[ 2023-07-30 17:03:43,115 ] 2 root - INFO - Replacing the values of Item fat content
+[ 2023-07-30 17:03:43,117 ] 7 root - INFO - Replacing the values of Item fat content Successful
+[ 2023-07-30 17:03:44,139 ] 2 root - INFO - Plotting pairplot of train_data
+[ 2023-07-30 17:03:58,583 ] 4 root - INFO - Plotting pairplot of train_data Successful
+[ 2023-07-30 17:04:12,267 ] 2 root - INFO - Plotting countplot of Item fat content
+[ 2023-07-30 17:04:12,327 ] 4 root - INFO - Plotting countplot of Item fat content successful
+[ 2023-07-30 17:04:12,493 ] 2 root - INFO - Plotting distplot of Item outlet sales
+[ 2023-07-30 17:04:12,818 ] 4 root - INFO - Plotting distplot of Item outlet sales successful
+[ 2023-07-30 17:04:12,987 ] 2 root - INFO - Plotting scatterplot
+[ 2023-07-30 17:04:13,076 ] 4 root - INFO - Plotting scatterplot successful
+[ 2023-07-30 17:04:13,272 ] 2 root - INFO - Plotting countplot of outlet identifier
+[ 2023-07-30 17:04:13,439 ] 6 root - INFO - Plotting countplot of outlet identifier successful
+[ 2023-07-30 17:04:13,448 ] 2 root - INFO - Plotting scatterplot of item MRP with respect to Item outlet sales
+[ 2023-07-30 17:04:13,507 ] 4 root - INFO - Plotting scatterplot of item MRP with respect to Item outlet sales Successful
+[ 2023-07-30 17:04:13,693 ] 2 root - INFO - Plotting boxplot
+[ 2023-07-30 17:04:13,941 ] 6 root - INFO - Plotting boxplot successful
+[ 2023-07-30 17:04:13,950 ] 2 root - INFO - Plotting countplot of Item type
+[ 2023-07-30 17:04:14,162 ] 6 root - INFO - Plotting countplot of Item type successful
+[ 2023-07-30 17:04:14,171 ] 2 root - INFO - Plotting barplot
+[ 2023-07-30 17:04:14,506 ] 6 root - INFO - Plotting barplot successful
+[ 2023-07-30 17:04:14,515 ] 2 root - INFO - Plotting train_data correlation
+[ 2023-07-30 17:04:15,069 ] 6 root - INFO - Plotting train_data correlation successful
+[ 2023-07-30 17:04:15,079 ] 2 root - INFO - Plotting countplot of outlet establishment year
+[ 2023-07-30 17:04:15,161 ] 4 root - INFO - Plotting countplot of outlet establishment year Successful
+[ 2023-07-30 17:04:15,325 ] 2 root - INFO - Plotting countplot of outlet location type
+[ 2023-07-30 17:04:15,359 ] 4 root - INFO - Plotting countplot of outlet location type Successful
+[ 2023-07-30 17:04:15,482 ] 2 root - INFO - Plotting countplot of outlet size
+[ 2023-07-30 17:04:15,514 ] 4 root - INFO - Plotting countplot of outlet size Successful
